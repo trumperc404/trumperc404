@@ -1,0 +1,34 @@
+{
+  "name": "TRUMP404 #86",
+  "description": "100 limited edition NFT pieces for Trump 404 project.",
+  "image": "https://storage.googleapis.com/nftcollection/3904278/TRUMP404/86.png",
+  "dna": "32bd6491d5842bbedae90c7a4d20822a7fe44839",
+  "edition": 86,
+  "date": 1707538925321,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "background_4"
+    },
+    {
+      "trait_type": "base",
+      "value": "base_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_5"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_0"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_5"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "clothes_5"
+    }
+  ]
+}
